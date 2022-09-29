@@ -1,13 +1,1 @@
-{
-  "name": "block_for_fork",
-  "type": "function",
-  "source": {
-    "https": "https://github.com/devthalal/block_for_fork",
-    "ssh": "git@github.com:devthalal/block_for_fork.git"
-  },
-  "language": "nodejs",
-  "start": "node index.js",
-  "build": "",
-  "postPull": "npm i",
-  "standAloneBlock": true
-}
+{"name":"block_for_fork_fork","type":"function","source":{"https":"https://github.com/Digambaran/block_for_fork_fork","ssh":"git@github.com:Digambaran/block_for_fork_fork.git"},"language":"nodejs","start":"node index.js","build":"","postPull":"npm i","standAloneBlock":true}
